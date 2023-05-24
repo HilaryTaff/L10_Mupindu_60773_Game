@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">L10_Mupindu_60773_Game</string>
+    <string name="lblCurrentMove">Mode actuel</string>
+    <string name="btnNewGame">Nouveau jeu</string>
+</resources>

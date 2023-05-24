@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">L10_Mupindu_60773_Game</string>
+    <string name="appAuthor" translatable="false">Hilary Tafadzwa Mupindu Puzzle Game</string>
+    <string name="lblScore" translatable="false">Score</string>
+    <string name="lblCurrentMove">Current Move</string>
+    <string name="btnNewGame">New Game</string>
+</resources>
